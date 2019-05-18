@@ -14,7 +14,7 @@
 #include "esp_system.h"
 #include "esp_timer.h"
 
-#include "user_src/MPU_6050.cpp"
+#include "src/MPU_6050.cpp"
 
 static const char *TAG = "app_main";
 
